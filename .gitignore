@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+*.onnx
+*.engine
+runs/
+wandb/
+lightning_logs/
+checkpoints/
+
+# Data (don’t commit datasets)
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS / temp
+Thumbs.db
