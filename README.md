@@ -1,20 +1,30 @@
-# applied-ai-systems
+📘 Applied AI Systems — Engineering AI That Ships
 
-A 24-week applied AI systems engineering portfolio focused on:
-- GPU-accelerated machine learning (CUDA on Jetson / MPS on Apple Silicon)
-- Computer vision & real-time inference
-- Model optimization (ONNX / TensorRT)
-- Deployment (FastAPI + Docker)
-- Reliability, monitoring, and performance engineering
+Author: Shane Tyler
+Focus: Applied AI, ML Systems, GPU Acceleration, Hardware-Aware Deployment
 
-## Repo structure
-Each week has its own folder with code, notes, and deliverables.
+🔍 What This Repository Is
 
-## Devices supported
-- NVIDIA Jetson (CUDA)
-- Apple Silicon Mac (MPS / Metal)
-- CPU fallback
+This repository documents a 24-week applied AI specialization focused on building, deploying, benchmarking, and validating real-world AI systems.
 
-## How to run Week 1
-See: `week01_foundations/train_gpu.py`
+Unlike research or notebook-only projects, this work emphasizes:
 
+Performance tradeoffs (CPU vs GPU vs eGPU)
+
+Failure modes and diagnostics
+
+Deployment readiness
+
+Hardware and infrastructure constraints
+
+The goal is to demonstrate end-to-end AI engineering competence suitable for:
+
+Applied AI Engineer
+
+AI Systems Engineer
+
+ML Infrastructure / Deployment Engineer
+
+AI Test & Reliability Engineer
+
+Robotics / Autonomy Data Engineer
