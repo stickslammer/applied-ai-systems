@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor junk
+*.swp
+*.swo
+.DS_Store
+
+# Local notes
+resume_bullets.md
+
