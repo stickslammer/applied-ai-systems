@@ -1,13 +1,20 @@
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .venv/
+venv/
 
-# Editor junk
-*.swp
-*.swo
+# macOS
 .DS_Store
 
-# Local notes
+# Editor/IDE
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Local-only notes
 resume_bullets.md
 
