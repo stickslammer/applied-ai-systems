@@ -18,3 +18,15 @@ venv/
 # Local-only notes
 resume_bullets.md
 
+.venv/
+**/.venv/
+
+# ML / large artifacts
+**/.venv/
+**/__pycache__/
+**/*.swp
+**/*.swo
+**/.DS_Store
+**/runs/
+**/wandb/
+**/.ipynb_checkpoints/
