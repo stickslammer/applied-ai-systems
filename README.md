@@ -31,7 +31,7 @@ Robotics / Autonomy Data Engineer
 
 PROGRESS
 
-Week01: /week01_foundations
+Week01: (/week01_foundations](https://github.com/stickslammer/applied-ai-systems/tree/main/week01_foundations)
 
 Hardware / Environment
 
