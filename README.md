@@ -30,7 +30,8 @@ AI Test & Reliability Engineer
 Robotics / Autonomy Data Engineer
 
 PROGRESS
-Week01: Objective
+
+Week01: /week01_foundations
 
 Hardware / Environment
 
